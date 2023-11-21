@@ -35,6 +35,9 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <meta name="description" content="프론트엔드 개발자 서동현의 프트폴리오" />
+          <link rel="preconnect" href="https://fonts.googleapis.com"></link>
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous"></link>
+          <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet"></link>
         </Head>
         <body>
           <Main />  
